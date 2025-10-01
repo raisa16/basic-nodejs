@@ -1,0 +1,17 @@
+{
+  "name": "basic-nodejs",
+  "version": "1.0.0",
+  "description": "node js examples",
+  "license": "MIT",
+  "author": "Raisa Toscano",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@deepgram/sdk": "^4.11.2",
+    "dotenv": "^17.2.3",
+    "is-odd": "^3.0.1"
+  }
+}
